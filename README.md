@@ -1,7 +1,7 @@
 # 404blenderRIG
 This is a modified version of the Ryzenix Rig!!!!!
 Some stuff can be VERY buggy.......
-
+Downloads: https://github.com/NotFake404/404blenderRIG/releases/
 
 
 
