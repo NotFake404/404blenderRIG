@@ -6,18 +6,26 @@ Downloads: https://github.com/NotFake404/404blenderRIG/releases/
 
 # MAIN FEATURES:
 Classic faces and Ryzzenix faces,
+
 BetterColorCodes,
+
 Most important assets included,
+
 Stupid stuff
 
 
 
 
 Credits:
+
 Ryzenix (For the original rig)
+
 NachoEngine(For the cosmetics, and the actual original rig)
+
 https://github.com/Render96/Render96Wiki/wiki/How-to-Achieve-90s-Render-look-in-Blender-2.8 (90s Shader)
 
-More credits.....:
+## More credits.....:
+
 "PISTOL | Desert Eagle Weapon Model (CS2)" (https://skfb.ly/oSJ7M) by gettan is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
 "Gangnam Style"  https://sketchfab.com/3d-models/gangnam-style-withered-freddy-905cce887cb74779968e1bed21d239a8
