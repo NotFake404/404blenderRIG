@@ -3,10 +3,18 @@ This is a modified version of the Ryzenix Rig!!!!!
 Some stuff can be VERY buggy.......
 Downloads: https://github.com/NotFake404/404blenderRIG/releases/
 
+# MAIN FEATURES:
+Classic faces and Ryzzenix faces,
+BetterColorCodes,
+Most important assets included,
+Stupid stuff
+
+
 
 
 Credits:
-Ryzenix (For the rig original)
+Ryzenix (For the original rig)
+NachoEngine(For the cosmetics, and the actual original rig)
 https://github.com/Render96/Render96Wiki/wiki/How-to-Achieve-90s-Render-look-in-Blender-2.8 (90s Shader)
 
 More credits.....:
