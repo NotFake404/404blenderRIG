@@ -16,7 +16,7 @@ Stupid stuff
 
 
 
-Credits:
+# Credits:
 
 Ryzenix (For the original rig)
 
