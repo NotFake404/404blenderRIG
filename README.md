@@ -9,22 +9,15 @@ Downloads: https://github.com/NotFake404/404blenderRIG/releases/
 
 **BetterColorCodes,**
 
+**404RigTools,**
+
 **Most important assets included,**
 
 **Stupid stuff**
 
-# Guide:
-**Disable the "404Objects collection"**
-[![404OBJSCollection](https://cdn.discordapp.com/attachments/1308449826891108463/1339581109855326248/qgSHtAq.png?ex=67af3da0&is=67adec20&hm=0f927f37bbdf0cdb60e30d320bcfd4f82e1b8dfd2205ccdea40616fd4c5073a3& "404OBJSCollection")](https://cdn.discordapp.com/attachments/1308449826891108463/1339581109855326248/qgSHtAq.png?ex=67af3da0&is=67adec20&hm=0f927f37bbdf0cdb60e30d320bcfd4f82e1b8dfd2205ccdea40616fd4c5073a3& "404OBJSCollection")
+# GUIDE!!! 
+https://github.com/NotFake404/404blenderRIG/blob/main/Docs/QuickStartTutorial.md
 
-**Edit the color code in the shader tab!!!**
-[![ColorCode](https://cdn.discordapp.com/attachments/1308449826891108463/1339582003036688434/H5fkbFq.png?ex=67af3e75&is=67adecf5&hm=010c5b525a43c5a7551381623f4633a384152fde0bbf77cf6f68c4aa6c646abb& "ColorCode")](https://cdn.discordapp.com/attachments/1308449826891108463/1339582003036688434/H5fkbFq.png?ex=67af3e75&is=67adecf5&hm=010c5b525a43c5a7551381623f4633a384152fde0bbf77cf6f68c4aa6c646abb& "ColorCode")
-
-**Configure settings in the settings bone**
-
-[![SettingsBone](https://cdn.discordapp.com/attachments/1308449826891108463/1339582677522841620/Lm98xyA.png?ex=67af3f16&is=67aded96&hm=993eb6fa817f326bdf0f9e50fc7b9347d044640f1a59faecbd1dc285c8e563bd& "SettingsBone")](https://cdn.discordapp.com/attachments/1308449826891108463/1339582677522841620/Lm98xyA.png?ex=67af3f16&is=67aded96&hm=993eb6fa817f326bdf0f9e50fc7b9347d044640f1a59faecbd1dc285c8e563bd& "SettingsBone")
-
-**Thats it for now....**
 # Credits:
 
 Ryzenix (For the original rig)
