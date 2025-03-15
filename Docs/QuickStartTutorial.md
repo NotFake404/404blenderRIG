@@ -17,7 +17,7 @@
 
 
 
-3. Dm me on discord for: Teaching,Help,Suggestions/bugs,Other blender related stuff!
+3. Dm me on discord for: Help,Suggestions/bugs,Teaching!
 
 
 My discord: "NotFake404"
