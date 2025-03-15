@@ -3,7 +3,9 @@
 
 2. Append: "404Rig_" collection.
 
-3. Delete the icosphere and disable the "Hidden4" collection.
+
+
+4. Delete the icosphere and disable the "Hidden4" collection.
 ![Example](https://github.com/NotFake404/404blenderRIG/blob/main/Docs/DocsAssets/Example_Hidden.png?raw=true)
 
 
